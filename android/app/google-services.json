@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190050533797",
+    "project_id": "fruitz-hub",
+    "storage_bucket": "fruitz-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190050533797:android:7844081b7a3ab584a9284c",
+        "android_client_info": {
+          "package_name": "com.gooddealstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190050533797-m1h3h1prmqk10u7h7rctsn5d5hvcrhi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gooddealstar",
+            "certificate_hash": "a24cafb3107e76178ad293a989e207448b0bcc3b"
+          }
+        },
+        {
+          "client_id": "190050533797-9dj3a6tgg69m69v22f1nbqb37p2jtuqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7_4kQLbcffyFc5m_WbNOenKvu73ZN98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190050533797-9dj3a6tgg69m69v22f1nbqb37p2jtuqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
